@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ivan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning full stack web developer
+- 💻 I’m currently full stack web developer
 - 💞️ I’m looking to collaborate on open source proyects
 - 📫 How to reach me? Just send me a message! =)
 - 📧 Or email me to: ivandap.1987@gmail.com
